@@ -4,7 +4,7 @@
 
 <p>I am a Software Engineer with cumulative of 2 years experience, 1 year of non-commercial experience and 1 year of commercial experience.My skills set include knowledge of  ● Java ● Spring Boot ● Spring Framework ● Spring Security ● Hibernate ● Spring MVC ● Spring Data JPA ● Maven ● MySQL ● Postgresql ● MongoDB ● H2 ● Docker ● CI/CD ● Thymeleaf ● JUnit/Mockito ● JavaScript ● Reactjs ● CSS ● HTML
 </p>
-#### Visit my LinkedIn profile for more about me.
+Visit my LinkedIn profile for more about me.
 
 <a href="https://www.linkedin.com/in/fortunate-nwachukwu-807825a4/">LinkedIn</a>
 ---
