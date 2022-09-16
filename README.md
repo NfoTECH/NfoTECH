@@ -2,7 +2,7 @@
 
 [![Visitor](https://visitor-badge.laobi.icu/badge?page_id=NfoTECH.NfoTECH)](https://github.com/NfoTECH) [![GitHub followers](https://img.shields.io/github/followers/NfoTECH.svg?style=social&label=Follow)](https://github.com/NfoTECH?tab=followers)
 
-<p>I am a software developer with cumulative of 2 years experience, 1 year of non-commercial experience and 1 year of commercial experience.My skills set include knowledge of  ● Java ● Spring Boot ● Spring Framework ● Spring Security ● Hibernate ● Spring MVC ● Spring Data JPA ● Maven ● MySQL ● Postgresql ● MongoDB ● H2 ● Docker ● CI/CD ● Thymeleaf ● JUnit/Mockito ● JavaScript ● Reactjs ● CSS ● HTML
+<p>I am a Software Engineer with cumulative of 2 years experience, 1 year of non-commercial experience and 1 year of commercial experience.My skills set include knowledge of  ● Java ● Spring Boot ● Spring Framework ● Spring Security ● Hibernate ● Spring MVC ● Spring Data JPA ● Maven ● MySQL ● Postgresql ● MongoDB ● H2 ● Docker ● CI/CD ● Thymeleaf ● JUnit/Mockito ● JavaScript ● Reactjs ● CSS ● HTML
 </p>
 <p>
 If it will solve a problem, I want to be part of it. It's a passion. I take my time to think out critically and come up with an optimal solution before converting the solution to clean and executable codes. I am also a supportive team player dedicated to efficiently resolving project issues and getting the job done.
