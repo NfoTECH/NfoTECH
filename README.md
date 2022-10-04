@@ -89,7 +89,7 @@ Visit my LinkedIn profile for more about me.
 
   <p align="center">
   <b><em>Overall GitHub Stats:</em></b> <br/>
-    <img src="https://github-readme-streak-stats.herokuapp.com/demo/preview.php?user=NfoTECH" alt="GitHub Stats" /> <br/><br/>
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=NfoTECH" alt="GitHub Stats" /> <br/><br/>
 </p>
   <div align="center">
 
