@@ -2,7 +2,7 @@
 
 [![Visitor](https://visitor-badge.laobi.icu/badge?page_id=NfoTECH.NfoTECH)](https://github.com/NfoTECH) [![GitHub followers](https://img.shields.io/github/followers/NfoTECH.svg?style=social&label=Follow)](https://github.com/NfoTECH?tab=followers)
 
-<p>I am a Software Engineer with cumulative of 2 years experience, 1 year of non-commercial experience and 1 year of commercial experience.My skills set include knowledge of  ● Java ● Spring Boot ● Spring Framework ● Spring Security ● Hibernate ● Spring MVC ● Spring Data JPA ● Maven ● MySQL ● Postgresql ● MongoDB ● H2 ● Docker ● CI/CD ● Thymeleaf ● JUnit/Mockito ● JavaScript ● Reactjs ● CSS ● HTML
+<p>I am a Software Engineer with cumulative of 2 years coding experience. My skills set include knowledge of  ● Java ● Spring Boot ● Spring Framework ● Spring Security ● Hibernate ● Spring MVC ● Spring Data JPA ● Maven ● MySQL ● Postgresql ● MongoDB ● H2 ● Docker ● CI/CD ● Kafka ● Kubernetes ● Microservices ● JUnit/Mockito ● JavaScript ● Reactjs ● CSS ● HTML
 </p>
 Visit my LinkedIn profile for more about me.
 
@@ -100,7 +100,7 @@ Visit my LinkedIn profile for more about me.
 </div>
 
 <!--
-**ushashir/ushashir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**NfoTECH/NfoTECH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
