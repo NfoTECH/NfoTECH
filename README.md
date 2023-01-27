@@ -4,8 +4,9 @@
 
 <p>I am a Software Engineer with cumulative of 3 years coding experience. My skills set include knowledge of  ● Java ● Spring Boot ● Spring Framework ● Spring Security ● Hibernate ● Spring MVC ● Spring Data JPA ● Maven ● Gradle ● MySQL ● Postgresql ● MongoDB ● H2 ● Dynamo DB ● AWS ● EC2 ● EBS ● Cloudformation ● Lambda ● Docker ● CI/CD ● Kafka ● Kubernetes ● Serverless ● Auth0 ● Kibana ● Prometheus ● Microservices ● JUnit/Mockito ● Node Js ● Typescript ● JavaScript ● Reactjs ● CSS ● HTML
 </p>
-Visit my LinkedIn profile for more about me.
-<a href="https://www.linkedin.com/in/fortunate-nwachukwu-807825a4/">LinkedIn</a>
+Visit my <a href="https://www.linkedin.com/in/fortunate-nwachukwu-807825a4/">LinkedIn</a> profile for more about me.
+
+
 ---
 
 ### 🛠 &nbsp;Tech Stack
