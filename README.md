@@ -2,7 +2,7 @@
 
 [![Visitor](https://visitor-badge.laobi.icu/badge?page_id=NfoTECH.NfoTECH)](https://github.com/NfoTECH) [![GitHub followers](https://img.shields.io/github/followers/NfoTECH.svg?style=social&label=Follow)](https://github.com/NfoTECH?tab=followers)
 
-<p>I am a Software Engineer with cumulative of 2 years coding experience. My skills set include knowledge of  ● Java ● Spring Boot ● Spring Framework ● Spring Security ● Hibernate ● Spring MVC ● Spring Data JPA ● Maven ● MySQL ● Postgresql ● MongoDB ● H2 ● Docker ● CI/CD ● Kafka ● Kubernetes ● Microservices ● JUnit/Mockito ● JavaScript ● Reactjs ● CSS ● HTML
+<p>I am a Software Engineer with cumulative of 3 years coding experience. My skills set include knowledge of  ● Java ● Spring Boot ● Spring Framework ● Spring Security ● Hibernate ● Spring MVC ● Spring Data JPA ● Maven ● Gradle ● MySQL ● Postgresql ● MongoDB ● H2 ● Dynamo DB ● AWS ● EC2 ● EBS ● Cloudformation ● Lambda ● Docker ● CI/CD ● Kafka ● Kubernetes ● Serverless ● Auth0 ● Kibana ● Prometheus ● Microservices ● JUnit/Mockito ● Node Js ● Typescript ● JavaScript ● Reactjs ● CSS ● HTML
 </p>
 Visit my LinkedIn profile for more about me.
 
@@ -11,17 +11,20 @@ Visit my LinkedIn profile for more about me.
 
 ### 🛠 &nbsp;Tech Stack
 
+#### &nbsp; Institution
+![Udacity](https://img.shields.io/badge/Udacity-02B3E4.svg?style=for-the-badge&logo=Udacity&logoColor=white)
+
 #### &nbsp; Backend
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![Node.Js](https://img.shields.io/badge/Node.js-339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-
 
 #### &nbsp; Frontend
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6.svg?style=for-the-badge&logo=TypeScript&logoColor=white)
 ![ES6](https://img.shields.io/badge/-ES6-05122A?style=flat&logo=javascript)&nbsp;
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
@@ -36,13 +39,25 @@ Visit my LinkedIn profile for more about me.
 ![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb)&nbsp;
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
 ![Postgres](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![DynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6.svg?style=for-the-badge&logo=Amazon-DynamoDB&logoColor=white)
 
+### &nbsp; Cloud
+
+![AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E.svg?style=for-the-badge&logo=Amazon-AWS&logoColor=white)
+![Lambda](https://img.shields.io/badge/AWS%20Lambda-FF9900.svg?style=for-the-badge&logo=AWS-Lambda&logoColor=white)
+![EC2](https://img.shields.io/badge/Amazon%20EC2-FF9900.svg?style=for-the-badge&logo=Amazon-EC2&logoColor=white)
+![CloudWatch](https://img.shields.io/badge/Amazon%20CloudWatch-FF4F8B.svg?style=for-the-badge&logo=Amazon-CloudWatch&logoColor=white)
+![RDS](https://img.shields.io/badge/Amazon%20RDS-527FFF.svg?style=for-the-badge&logo=Amazon-RDS&logoColor=white)
+![Serverless](https://img.shields.io/badge/Serverless-FD5750.svg?style=for-the-badge&logo=Serverless&logoColor=white)
+![Kibana](https://img.shields.io/badge/Kibana-005571.svg?style=for-the-badge&logo=Kibana&logoColor=white)
 
 ### &nbsp; DevOps
 ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)&nbsp;
 ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)
-
+![CircleCI](https://img.shields.io/badge/CircleCI-343434.svg?style=for-the-badge&logo=CircleCI&logoColor=white)
+![TravisCI](https://img.shields.io/badge/Travis%20CI-3EAAAF.svg?style=for-the-badge&logo=Travis-CI&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-EE0000.svg?style=for-the-badge&logo=Ansible&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C.svg?style=for-the-badge&logo=Prometheus&logoColor=white)
 
 ### &nbsp; Tools
 
@@ -73,11 +88,6 @@ Visit my LinkedIn profile for more about me.
 ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
 ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black)
 ![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white)
-
-
-
-
-
 
 
 
