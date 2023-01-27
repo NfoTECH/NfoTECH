@@ -1,4 +1,4 @@
-<h2>Hi 👋, I am Fortunate Nwachukwu! * Welcome to my profile 🤝</h2>
+<h2>Hi 👋, I'm Fortunate. Welcome to my profile 🤝</h2>
 
 [![Visitor](https://visitor-badge.laobi.icu/badge?page_id=NfoTECH.NfoTECH)](https://github.com/NfoTECH) [![GitHub followers](https://img.shields.io/github/followers/NfoTECH.svg?style=social&label=Follow)](https://github.com/NfoTECH?tab=followers)
 
