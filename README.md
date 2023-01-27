@@ -23,8 +23,8 @@ Visit my LinkedIn profile for more about me.
 
 #### &nbsp; Frontend
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6.svg?style=for-the-badge&logo=TypeScript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![ES6](https://img.shields.io/badge/-ES6-05122A?style=flat&logo=javascript)&nbsp;
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
@@ -32,7 +32,7 @@ Visit my LinkedIn profile for more about me.
 ![Json](https://img.shields.io/badge/-json-05122A?style=flat&logo=json)&nbsp;
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)
 
-### &nbsp; Databases
+#### &nbsp; Databases
 
 ![SQL](https://img.shields.io/badge/-SQL-05122A?style=flat&logo=sql)&nbsp;
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
@@ -41,7 +41,7 @@ Visit my LinkedIn profile for more about me.
 ![Postgres](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![DynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6.svg?style=for-the-badge&logo=Amazon-DynamoDB&logoColor=white)
 
-### &nbsp; Cloud
+#### &nbsp; Cloud
 
 ![AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E.svg?style=for-the-badge&logo=Amazon-AWS&logoColor=white)
 ![Lambda](https://img.shields.io/badge/AWS%20Lambda-FF9900.svg?style=for-the-badge&logo=AWS-Lambda&logoColor=white)
@@ -51,7 +51,7 @@ Visit my LinkedIn profile for more about me.
 ![Serverless](https://img.shields.io/badge/Serverless-FD5750.svg?style=for-the-badge&logo=Serverless&logoColor=white)
 ![Kibana](https://img.shields.io/badge/Kibana-005571.svg?style=for-the-badge&logo=Kibana&logoColor=white)
 
-### &nbsp; DevOps
+#### &nbsp; DevOps
 ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)&nbsp;
 ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![CircleCI](https://img.shields.io/badge/CircleCI-343434.svg?style=for-the-badge&logo=CircleCI&logoColor=white)
@@ -59,7 +59,7 @@ Visit my LinkedIn profile for more about me.
 ![Ansible](https://img.shields.io/badge/Ansible-EE0000.svg?style=for-the-badge&logo=Ansible&logoColor=white)
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C.svg?style=for-the-badge&logo=Prometheus&logoColor=white)
 
-### &nbsp; Tools
+#### &nbsp; Tools
 
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
@@ -74,7 +74,7 @@ Visit my LinkedIn profile for more about me.
 ![NPM](https://img.shields.io/badge/-npm-05122A?style=flat&logo=npm)&nbsp;
 ![Yarn](https://img.shields.io/badge/-yarn-05122A?style=flat&logo=yarn)&nbsp;
 
-### &nbsp; IDEs/Editors
+#### &nbsp; IDEs/Editors
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
@@ -82,18 +82,16 @@ Visit my LinkedIn profile for more about me.
 ![Emacs](https://img.shields.io/badge/Emacs-%237F5AB6.svg?&style=for-the-badge&logo=gnu-emacs&logoColor=white)
 ![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white)
 
-### &nbsp; Others
+#### &nbsp; Others
 ![ESLINT](https://img.shields.io/badge/-npm-05122A?style=flat&logo=npm)&nbsp;
 ![PRETTIER](https://img.shields.io/badge/prettier-1A2C34?style=for-the-badge&logo=prettier&logoColor=F7BA3E)&nbsp;
 ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
 ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black)
 ![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white)
 
-
-
 </br>
 
-### 👀 My Stats
+### 👀 Stats
 
 <div>
 
