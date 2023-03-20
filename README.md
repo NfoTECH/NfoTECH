@@ -2,7 +2,7 @@
 
 [![Visitor](https://visitor-badge.laobi.icu/badge?page_id=NfoTECH.NfoTECH)](https://github.com/NfoTECH) [![GitHub followers](https://img.shields.io/github/followers/NfoTECH.svg?style=social&label=Follow)](https://github.com/NfoTECH?tab=followers)
 
-<p>I am a Software Engineer with 3 years coding experience. My skills set include knowledge of  ● Java ● Spring Boot ● Spring Framework ● Spring Security ● Hibernate ● Spring MVC ● Spring Data JPA ● Maven ● Gradle ● MySQL ● Postgresql ● MongoDB ● H2 ● Dynamo DB ● AWS ● EC2 ● EBS ● Cloudformation ● Lambda ● Docker ● CI/CD ● Kafka ● Kubernetes ● Serverless ● Auth0 ● Kibana ● Prometheus ● Microservices ● JUnit/Mockito ● Node Js ● Typescript ● JavaScript ● Reactjs ● CSS ● HTML
+<p>I am a Software Engineer with over 3 years coding experience. My skills set include knowledge of  ● Java ● Spring Boot ● Spring Framework ● Spring Security ● Hibernate ● Spring MVC ● Spring Data JPA ● Maven ● Gradle ● MySQL ● Postgresql ● MongoDB ● H2 ● Dynamo DB ● AWS ● EC2 ● EBS ● Cloudformation ● Lambda ● Docker ● CI/CD ● Kafka ● Kubernetes ● Serverless ● Auth0 ● Kibana ● Prometheus ● Microservices ● JUnit/Mockito ● Node Js ● Typescript ● JavaScript ● Reactjs ● CSS ● HTML
 </p>
 Visit my <a href="https://www.linkedin.com/in/fortunate-nwachukwu/">LinkedIn</a> profile for more about me.
 
