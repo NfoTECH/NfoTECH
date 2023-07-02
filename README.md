@@ -20,8 +20,9 @@ Visit my <a href="https://www.linkedin.com/in/fortunate-nwachukwu/">LinkedIn</a>
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
-![Node.Js](https://img.shields.io/badge/Node.js-339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+
 
 #### &nbsp; Frontend
 
@@ -61,6 +62,7 @@ Visit my <a href="https://www.linkedin.com/in/fortunate-nwachukwu/">LinkedIn</a>
 ![TravisCI](https://img.shields.io/badge/Travis%20CI-3EAAAF.svg?style=for-the-badge&logo=Travis-CI&logoColor=white)
 ![Ansible](https://img.shields.io/badge/Ansible-EE0000.svg?style=for-the-badge&logo=Ansible&logoColor=white)
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C.svg?style=for-the-badge&logo=Prometheus&logoColor=white)
+![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white)
 
 #### &nbsp; Tools
 
@@ -76,6 +78,7 @@ Visit my <a href="https://www.linkedin.com/in/fortunate-nwachukwu/">LinkedIn</a>
 ![Windows](https://img.shields.io/badge/-Windows-05122A?style=flat&logo=windows)&nbsp;
 ![NPM](https://img.shields.io/badge/-npm-05122A?style=flat&logo=npm)&nbsp;
 ![Yarn](https://img.shields.io/badge/-yarn-05122A?style=flat&logo=yarn)&nbsp;
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 
 #### &nbsp; IDEs/Editors
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
@@ -84,6 +87,7 @@ Visit my <a href="https://www.linkedin.com/in/fortunate-nwachukwu/">LinkedIn</a>
 ![Sublime Text](https://img.shields.io/badge/sublime_text-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important)&nbsp;
 ![Emacs](https://img.shields.io/badge/Emacs-%237F5AB6.svg?&style=for-the-badge&logo=gnu-emacs&logoColor=white)
 ![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white)
+
 
 #### &nbsp; Others
 ![ESLINT](https://img.shields.io/badge/-npm-05122A?style=flat&logo=npm)&nbsp;
